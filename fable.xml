@@ -28,7 +28,8 @@
   
   <page background="florest.png">
     <agent img="girl_idle_1.png"      x='0'   y='100'   width='52'   height='57'/>
-    <agent img="Tree_2.png"           x='0'   y='100' width='300'   height='300'/>
+    <agent img="Tree_2.png"           x='0'   y='100' width='0
+                                                             00'   height='300'/>
     <agent img="montanha.png"         x="170" y="50"    width="400"  height="400" />
     
     <agent img="entradacave.png"      x="260" y="95"    width="130"  height="130" on-touch="_NEXT_PAGE"/>
